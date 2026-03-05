@@ -6,7 +6,7 @@ updates:
     schedule:
       interval: "weekly"
       day: "thursday"
-      time: "16:52"
+      time: "11:50"
     open-pull-requests-limit: 5
     labels:
       - "dependencies"
